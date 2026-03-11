@@ -43,3 +43,19 @@ data = data.drop_duplicates()
 
 # Fill missing values
 data = data.fillna(method="ffill")
+
+Key Insights
+
+Data cleaning improves dataset reliability.
+
+Removing duplicates and handling missing values prevents incorrect analysis.
+
+Standardized data ensures consistency across the dataset.
+
+Outcome
+
+The dataset was successfully cleaned and prepared for accurate data analysis and modeling. This process ensures reliable insights and better decision-making.
+
+Author
+
+Ayesha Asna
