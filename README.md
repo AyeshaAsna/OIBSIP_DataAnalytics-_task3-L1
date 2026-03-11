@@ -7,7 +7,7 @@ The objective of this project is to clean and preprocess raw datasets to improve
 
 ## Dataset
 Dataset 1 Link: AB_NYC_2019.csv.zip
-Dataset 2 Link: (Add your dataset link)
+Dataset 2 Link: CA_category_id.json
 
 The datasets contain raw data that requires preprocessing such as handling missing values, removing duplicates, and standardizing formats.
 
